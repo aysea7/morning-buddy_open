@@ -1,2 +1,2 @@
-# morning-buddy_open
-A sketch for my custom morning alarm made out of a Wemos D1 mini (ESP8266) module and 1 encoder.
+# Morning Buddy
+A sketch for my custom morning alarm made out of a Wemos D1 mini (ESP8266) module and an encoder. A set of challenges must be completed with only one rotary encoder in order for the ESP8266 to send a message through a Telegram bot about the user being awake. If the user has not completed the challenges before the pre-set alarm time, a message will be sent to tell that the user is still asleep.  
